@@ -1,7 +1,7 @@
 # Hi, I'm Anurag 👋
 
 🎓 Engineering Student  
-💻 Interested in Full Stack Development (React + Supabase)
+💻 Interested in Full Stack Development (React + Supabase + Render)
 🚀 Building real-world projects and looking for internship opportunities  
 📍 Based in India | Open to in-office (Bangalore)  & remote roles
 
