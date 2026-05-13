@@ -29,9 +29,10 @@ Git, GitHub, Figma, Vercel, Antigravity, Render
 
 ## 🚀 Projects
 
-### 🔹 Founder Dashboard (Ongoing)
+### 🔹 Founder Dashboard 
+AI-powered founder operating system for execution tracking, productivity analytics, smart insights, and automated workflows.
 
-React • Supabase • PostgreSQL • Vercel • Render
+React • Supabase • PostgreSQL • Vercel • Render • Resend
 
 Built a full-stack AI productivity platform for managing goals, projects, applications, reminders, and execution workflows
 Implemented AI-powered Today Focus recommendations, productivity scoring, and intelligent insights for performance optimization
