@@ -24,20 +24,19 @@ React, HTML, CSS
 Node.js, Supabase, OracleDB, PostgreSQL
 
 **Tools:**  
-Git, GitHub, Figma, Vercel, VS Code
+Git, GitHub, Figma, Vercel, Antigravity, Render
 
 
 ## 🚀 Projects
 
 ### 🔹 Founder Dashboard (Ongoing)
 
-React • Supabase • PostgreSQL • Vercel
+React • Supabase • PostgreSQL • Vercel • Render
 
-Building a full-stack productivity system for tracking goals, tasks, and projects
-Designed relational database schema with user-specific data isolation
-Implemented Row Level Security (RLS) for secure multi-user access
-Developed modular React architecture with routing and reusable components
-Creating analytics dashboards using Recharts for progress tracking
+Built an AI-powered founder operating system for managing goals, projects, applications, and daily execution workflows
+Implemented personalized AI insights, AI-generated daily focus systems, and productivity scoring for actionable performance tracking
+Engineered secure multi-user architecture using Supabase Authentication, PostgreSQL, and Row Level Security (RLS)
+Developed scalable React frontend architecture with reusable components, protected routing, and analytics dashboards using Recharts
 
 🔗 GitHub: https://github.com/anudharmik/founder_dashboard
 🌐 Live: https://founder-dashboard-five.vercel.app/
