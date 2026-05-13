@@ -33,10 +33,11 @@ Git, GitHub, Figma, Vercel, Antigravity, Render
 
 React • Supabase • PostgreSQL • Vercel • Render
 
-Built an AI-powered founder operating system for managing goals, projects, applications, and daily execution workflows
-Implemented personalized AI insights, AI-generated daily focus systems, and productivity scoring for actionable performance tracking
-Engineered secure multi-user architecture using Supabase Authentication, PostgreSQL, and Row Level Security (RLS)
-Developed scalable React frontend architecture with reusable components, protected routing, and analytics dashboards using Recharts
+Built a full-stack AI productivity platform for managing goals, projects, applications, reminders, and execution workflows
+Implemented AI-powered Today Focus recommendations, productivity scoring, and intelligent insights for performance optimization
+Engineered secure multi-user backend architecture using Supabase Authentication, PostgreSQL, and Row Level Security (RLS)
+Developed automated email reminder workflows using Supabase Edge Functions and Resend
+Built scalable React frontend architecture with reusable components, protected routing, analytics dashboards, and real-time visualizations using Recharts
 
 🔗 GitHub: https://github.com/anudharmik/founder_dashboard
 🌐 Live: https://founder-dashboard-five.vercel.app/
