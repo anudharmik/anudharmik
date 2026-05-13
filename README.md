@@ -40,6 +40,7 @@ Developed modular React architecture with routing and reusable components
 Creating analytics dashboards using Recharts for progress tracking
 
 🔗 GitHub: https://github.com/anudharmik/founder_dashboard
+🌐 Live: https://founder-dashboard-five.vercel.app/
 
 ### 🔹 Job Application Tracker
 
