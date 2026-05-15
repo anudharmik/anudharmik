@@ -53,7 +53,7 @@ Integrated real-time database operations with PostgreSQL
 Designed a responsive UI for tracking application status
 
 🔗 GitHub: https://github.com/anudharmik/job-application-tracker
-🌐 Live: https://job-application-tracker-qbz5n5ytl-anudharmiks-projects.vercel.app/
+🌐 Live: https://job-application-tracker-seven-psi.vercel.app/
 
 ### 🔹 React Shopping Cart
 
