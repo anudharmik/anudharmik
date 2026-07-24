@@ -10,7 +10,7 @@ I don't follow tutorials. I pick a problem, design a system, and ship it.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-dharmik-60655537b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anuragdharmik07@gmail.com)
 
-3rd year CSE @ Ramdeobaba University · **Available for internships · Bangalore (immediate)**
+3rd year CSE @ Ramdeobaba University ·
 
 </div>
 
